@@ -134,3 +134,4 @@ data.json
 tgbot/assets/fund_default*.png
 mongodb/data
 docker-compose.creds.yml
+.idea
